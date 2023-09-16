@@ -38,7 +38,7 @@ To run the project, follow these steps:
    cd app
    ```
 
-3. Download data from Dropbox and but the two downloaded files in the **data** folder. [Dropbox link] (https://www.dropbox.com/scl/fo/1f8ens3hb0z6zablb8hw2/h?rlkey=3t8lf0jzcd6mx5m171ie92zxo&dl=0)
+3. Download data from Dropbox and but the two downloaded files in the **data** folder. [Dropbox link](https://www.dropbox.com/scl/fo/1f8ens3hb0z6zablb8hw2/h?rlkey=3t8lf0jzcd6mx5m171ie92zxo&dl=0)
 
 4. Build the Docker image using the provided Dockerfile:
 
