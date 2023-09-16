@@ -17,9 +17,9 @@ The GitHub repository follows a specific structure to organize the project:
 
 The dataset for this project can be found on Dropbox. It consists of two main components:
 
-1. **CSV Dataset**: The CSV file contains the car insurance customer information dataset, which serves as the primary data source for the application. The Dropbox link to the CSV file should be provided in the app code for downloading and processing.
+1. **CSV Dataset**: The CSV file contains the car insurance customer information dataset, which serves as the primary data source for the application.
 
-2. **Image**: An image file may also be included in the Dropbox link, potentially for use as a logo or visual element within the Streamlit app. The image file can be referenced in the app code as needed.
+2. **Image**: An image file is included in the Dropbox link.
 
 ## Getting Started
 
