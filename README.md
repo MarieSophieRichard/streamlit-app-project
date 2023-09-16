@@ -63,7 +63,7 @@ To run the project, there are two ways:
 6. Run the Docker container:
 
    ```bash
-   docker run -p 8501:8501 car-insurance-app
+   docker run --rm -d -p 8501:8501/tcp car-insurance-app:latest
    ```
 
 7. Access the Streamlit app in your web browser at [http://localhost:8501](http://localhost:8501).
