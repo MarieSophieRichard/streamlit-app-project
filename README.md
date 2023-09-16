@@ -1,2 +1,2 @@
 # streamlit-app-project
-Toolin for datascientists lecture - DSB 2023/24
+Tooling for datascientists lecture - DSB 2023/24
