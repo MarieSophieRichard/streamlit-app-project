@@ -23,12 +23,27 @@ The dataset for this project can be found on Dropbox. It consists of two main co
 
 ## Getting Started
 
-To run the project, follow these steps:
+To run the project, there are two ways:
+
+**The first way:**
+
+1. Open [Docker play](https://labs.play-with-docker.com/)
+
+2. Select the ADD NEW INSTANCE
+   
+4. Run the following code :
+
+    ```bash
+   docker run -dp 0.0.0.0:3000:3000 msrichard/streamlitprojectrepo:final-app
+   ```
+5. Open port 3000. 
+
+**Or follow the following steps:** 
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git](https://github.com/MarieSophieRichard/streamlit-app-project.git
+   git clone https://github.com/MarieSophieRichard/streamlit-app-project.git
    ```
 
 2. Navigate to the "app" folder:
